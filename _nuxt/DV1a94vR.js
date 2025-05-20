@@ -1,1 +1,0 @@
-import{d as n,u as a,o as s,b as c,e as m,m as r,aq as _}from"./cHk_AxVN.js";import{u}from"./CdNGa66W.js";const h=n({__name:"blank",setup(l){const e=u(),{locale:o}=a();return s(()=>{e.loadTheme(o.value)}),(p,d)=>{const t=_;return c(),m("div",null,[r(t)])}}});export{h as default};
